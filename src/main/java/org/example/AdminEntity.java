@@ -3,7 +3,7 @@ package org.example;
 import java.sql.*;
 import java.util.logging.Logger;
 
-public class AdminEntity {
+public class AdminEntity {//
     private static final Logger logger = Logger.getLogger(AdminEntity.class.getName());
 
     String host = "localhost";
